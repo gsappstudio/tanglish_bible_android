@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245594825384",
+    "project_id": "tanglishbible-64de0",
+    "storage_bucket": "tanglishbible-64de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245594825384:android:e0d5e95626aec1709d189d",
+        "android_client_info": {
+          "package_name": "com.example.tanglis_bible_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245594825384-hr7etqeenvuisl6jqcl45i446chbielh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HPttWAhEWchgjoebZ_AtFgbazGXmEKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245594825384-hr7etqeenvuisl6jqcl45i446chbielh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
